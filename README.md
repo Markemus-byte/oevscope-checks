@@ -52,6 +52,6 @@ These scripts cover the numbers in our public posts. OEV Scope's monthly measure
 
 ## Disclosure and licence
 
-OEV Scope is a paid measurement service of Brafaring Thevik (sole proprietorship, Norway, org. no. 938 405 565). These scripts are free under the MIT licence. They provide information about protocols and markets, not investment advice.
+OEV Scope is a paid measurement service run by Morten Thevik through his sole proprietorship Brafaring Thevik (Norway, org. no. 938 405 565). These scripts are free under the MIT licence. They provide information about protocols and markets, not investment advice.
 
 Questions or corrections: research@oevscope.com, or open an issue.
