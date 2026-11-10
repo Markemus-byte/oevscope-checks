@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.log
+*.txt
+!requirements.txt
+.env
+rpc.json
